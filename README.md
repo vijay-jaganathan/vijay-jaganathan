@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vijay-jaganathan, RDBA team member at EDB, Obviously interested in any PostgreSQL related stuff. 
-- 🌱 I’m currently learning Tableau for a project that helps my team put together the metrics data of the Databases we support.
+- 🌱 I create/migrate Tableau dashboards for a SIO team that put together the metrics data of the Databases we support.
 - 📫 reach me at vijay.jaganathan@enterprisedb.com <+91 99408 86050>
 
 <!---
